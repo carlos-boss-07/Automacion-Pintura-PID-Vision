@@ -1,14 +1,23 @@
 # Automacion-Pintura-PID-Vision
 Sistema automatizado de pintura y clasificación con control PID y visión artificial (Simulación PLC en Python)
 +SIMULADOR DE PLC+
+
 import tkinter as tk
+
 import random
+
 import threading
+
 import time
+
 from datetime import datetime
+
 import matplotlib.pyplot as plt
+
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+
 from tkinter import messagebox
+
 
 # VARIABLES PLC
 # =============================
